@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wa1den
+- 👋 Hi, I’m @Wa1den-jy
 - 👀 I’m working on Data-Centric AI
 - 📫 You can reach me on <u>jshi365@connect.hkust-gz.edu.cn</u>
 
